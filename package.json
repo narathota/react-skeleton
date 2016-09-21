@@ -21,6 +21,7 @@
     "babel-preset-react": "^6.11.1",
     "babelify": "^7.3.0",
     "react": "^15.3.2",
+    "react-bootstrap": "^0.30.3",
     "react-dom": "^15.3.2",
     "watchify": "^3.7.0"
   }
